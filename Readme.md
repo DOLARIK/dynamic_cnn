@@ -4,7 +4,15 @@ I have built a model in which we can make however deep a CNN we wish to with the
 
 # Test
 
-I have tested it for handwritten digit recognition with LeNet-5 architecture. The model was able to achieve an accuracy of **95.4%**.
+I have tested it for handwritten digit recognition -
+
+Dataset: **MNIST Handwritten Digits (60k samples)**
+Architecture: **LeNet-5**
+Accuracy: **95.09%**
+
+### Instructions:
+
+Use MNIST_CNN.m to run and train the model for MNIST Dataset. (For detailed information checkout my other [repo][https://github.com/DOLARIK/Machine-Learning-Projects/tree/master/Handwritten%20Digit%20Classification%20(using%20CNN)/LeNet-5]
 
 ## Results
 
