@@ -6,8 +6,8 @@ I have built a model in which we can make however deep a CNN we wish to with the
 
 I have tested it for handwritten digit recognition -
 
-Dataset: **MNIST Handwritten Digits (60k samples)**
-Architecture: **LeNet-5**
+Dataset: **MNIST Handwritten Digits (60k samples)** <br/>
+Architecture: **LeNet-5** <br/>
 Accuracy: **95.09%**
 
 ### Instructions:
