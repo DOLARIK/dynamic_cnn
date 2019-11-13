@@ -12,7 +12,7 @@ Accuracy: **95.09%**
 
 ### Instructions:
 
-Use MNIST_CNN.m to run and train the model for MNIST Dataset. (For detailed information checkout my other [repo][1]
+Use MNIST_CNN.m to run and train the model for MNIST Dataset. (For detailed information checkout my other [repo][1])
 
 
 ## Results
