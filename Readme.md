@@ -12,7 +12,7 @@ Accuracy: **95.09%**
 
 ### Instructions:
 
-Use MNIST_CNN.m to run and train the model for MNIST Dataset. (For detailed information checkout my other [repo][https://github.com/DOLARIK/Machine-Learning-Projects/tree/master/Handwritten%20Digit%20Classification%20(using%20CNN)/LeNet-5]
+Use MNIST_CNN.m to run and train the model for MNIST Dataset. (For detailed information checkout my other [repo]%28https://github.com/DOLARIK/Machine-Learning-Projects/tree/master/Handwritten%20Digit%20Classification%20(using%20CNN)/LeNet-5%29
 
 ## Results
 
